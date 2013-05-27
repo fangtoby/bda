@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0 auto;
+	padding:0;
+	}
+body{
+	font-family:Arial;
+	font-size:12px;
+	color:#333;
+	background-color:#eee;
+	}
+.frame{
+	width:1100px;
+	}
+.decro{
+	padding:100px 30px;
+	}
+.content{
+	padding:10px;
+	border:solid #ddd 1px;
+	background-color:#fff;
+	}
+.header span{
+	font-weight:bold;
+	}
+a.hot-link{
+	color:#F00;
+	}
